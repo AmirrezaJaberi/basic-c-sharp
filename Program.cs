@@ -113,9 +113,6 @@ namespace First_Script
                 Console.WriteLine(numtables[i]);
             }
 
-
-            ////////////// For \\\\\\\\\\\\\\
-
         }
 
 
